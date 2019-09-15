@@ -1,0 +1,10 @@
+*{margin:0px;padding:0px;}
+
+/**
+ * 设置日历的大小
+ */
+.calendar{
+    width: 240px;
+    height: 400px;
+    display: block;
+}
